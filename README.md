@@ -19,24 +19,24 @@ Finally, the notebook offers a comparison of PCA, t-SNE, and UMAP, guidance on w
 
 ## 📖 Table of Contents
 
-* [What Are Latent Variables?](#1-what-are-they)
-* [Examples of Latent Variables in Bioinformatics](#latent-variables-in-bioinformatics-examples)
-* [Evaluating Latent Variables](#evaluating-latent-variables)
-* [Dimensionality Reduction & Latent Variables](#dimensionality-reduction--latent-variables)
-    * [Why Reduce Dimensions?](#1-why-reduce-dimensions)
-    * [Key Methods in Bioinformatics](#2-key-methods-in-bioinformatics)
-* [Principal Component Analysis (PCA)](#3-explanation-of-pca-with-latent-variables)
-    * [PCA Algorithm](#31-pca-algorithm)
-    * [Python Implementation of PCA](#4-implementation-of-pca-in-bioinformatics)
-* [t-Distributed Stochastic Neighbor Embedding (t-SNE)](#61-t-sne-t-distributed-stochastic-neighbor-embedding)
-    * [Explanation of t-SNE](#explanation-of-t-sne)
-    * [Python Implementation of t-SNE](#python-implementation-of-t-sne) (Code cell follows this section in the notebook)
-* [Uniform Manifold Approximation and Projection (UMAP)](#62-umap-uniform-manifold-approximation-and-projection)
-    * [Explanation of UMAP](#explanation-of-umap)
-    * [Python Implementation of UMAP](#python-implementation-of-umap) (Code cell follows this section in the notebook)
-* [Comparison of PCA, t-SNE, and UMAP](#7-comparison-of-pca-t-sne-and-umap)
-* [When to Use Which?](#8-when-to-use-which)
-* [Conclusion](#conclusion)
+* What Are Latent Variables?
+* Examples of Latent Variables in Bioinformatics
+* Evaluating Latent Variables
+* Dimensionality Reduction & Latent Variables
+    * Why Reduce Dimensions?
+    * Key Methods in Bioinformatics
+* Principal Component Analysis (PCA)
+    * PCA Algorithm
+    * Python Implementation of PCA
+* t-Distributed Stochastic Neighbor Embedding (t-SNE)
+    * Explanation of t-SNE
+    * Python Implementation of t-SNE
+* Uniform Manifold Approximation and Projection (UMAP)
+    * Explanation of UMAP
+    * Python Implementation of UMAP
+* Comparison of PCA, t-SNE, and UMAP
+* When to Use Which?
+* Conclusion
 
 ## 🔑 Key Concepts Covered
 
